@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MO",
+  "base_artist": "電波少女",
+  "createdAt": "2026-02-12T12:05:42.023020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Party No Mo'",
+      "artist": "Ludacris feat. Gucci Mane",
+      "has_synced": true,
+      "path": "select/01_Party_No_Mo'_Ludacris_feat._Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Party No Mo' (feat. Gucci Mane)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Party_No_Mo'_(feat._Gucci_Mane)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I've Changed (Interlude) [feat. Lil' Mo]",
+      "artist": "Missy Elliott feat. Lil' Mo",
+      "has_synced": true,
+      "path": "select/03_I've_Changed_(Interlude)_[feat._Lil'_Mo]_Missy_Elliott_feat._Lil'_Mo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I've Changed-Interlude (Ft. Lil' Mo)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/04_I've_Changed-Interlude_(Ft._Lil'_Mo)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doo Wa Ditty (feat. Introduction by Mo Ostin) (live)",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/05_Doo_Wa_Ditty_(feat._Introduction_by_Mo_Ostin)_(live)_Zapp.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doo Wa Ditty-Live (With Introduction by Mo Ostin)",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/06_Doo_Wa_Ditty-Live_(With_Introduction_by_Mo_Ostin)_Zapp.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Get Sum Mo",
+      "artist": "Young Dolph feat. Gucci Mane, 2 Chainz & Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/07_Go_Get_Sum_Mo_Young_Dolph_feat._Gucci_Mane,_2_Chainz_&_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go Get Sum Mo (feat. Gucci Mane, 2 Chainz, and Ty Dolla $ign)",
+      "artist": "Young Dolph",
+      "has_synced": true,
+      "path": "select/08_Go_Get_Sum_Mo_(feat._Gucci_Mane,_2_Chainz,_and_Ty_Dolla_$ign)_Young_Dolph.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "D.'s Car Jam / Anxious Mo-Fo",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/09_D.'s_Car_Jam___Anxious_Mo-Fo_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "D's Car Jam\u0000Anxious Mo-Fo",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/10_D's_Car_Jam\u0000Anxious_Mo-Fo_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Ain't Love feat. Lil Mo",
+      "artist": "MSTRKRFT",
+      "has_synced": true,
+      "path": "select/11_It_Ain't_Love_feat._Lil_Mo_MSTRKRFT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I’ve Changed (Interlude) (feat. Lil Mo)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/12_I’ve_Changed_(Interlude)_(feat._Lil_Mo)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Mo' Gen",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/13_One_Mo'_Gen_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Don't Know (feat. Lil' Mo)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/14_You_Don't_Know_(feat._Lil'_Mo)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Canega Nai Qeledo Mo (No Tengo Dinero) - Versión en Japonés",
+      "artist": "Juan Gabriel",
+      "has_synced": true,
+      "path": "select/15_Canega_Nai_Qeledo_Mo_(No_Tengo_Dinero)_-_Versión_en_Japonés_Juan_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mo Money Mo Problems",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": false,
+      "path": "select/16_Mo_Money_Mo_Problems_The_Notorious_B.I.G..txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mo Money Mo Problems (feat. Mase & Puff Daddy)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/17_Mo_Money_Mo_Problems_(feat._Mase_&_Puff_Daddy)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Giấc Mơ Trưa",
+      "artist": "Thùy Chi",
+      "has_synced": true,
+      "path": "select/18_Giấc_Mơ_Trưa_Thùy_Chi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONE\\CLIP feat. Jinmenusagi",
+      "artist": "電波少女",
+      "has_synced": false,
+      "path": "select/pl_01_MONE_CLIP_feat._Jinmenusagi_電波少女.txt"
+    }
+  ]
+}
